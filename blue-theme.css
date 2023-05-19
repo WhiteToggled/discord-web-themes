@@ -1,0 +1,210 @@
+:root {
+
+    --primary-color: #04001c;
+    --secondary-color: #070120;
+    --tertiary-color: #060217;
+    --accent-color: #19142b;
+    --member-list-inner: #19142b;
+    --textbox: #171b2b;
+    --textbox-placeholder: #534f71;
+    --embeds: #051426;
+    --box-shadow: #494473;
+}
+
+
+/* Typography */
+* {
+    font-family: 'Inter' !important;
+    font-size: .95rem;
+}
+
+/* Top Info Bar*/
+section.container-ZMc96U {
+    background-color: var(--secondary-color) !important;
+    box-shadow: 0px 1px 20px var(--box-shadow);
+}
+/* Top Info Search */
+div.searchBar-jGtisZ {
+    background-color: var(--textbox) !important;
+}
+
+/* Direct Messages  */
+ul[aria-label="Direct Messages"] {
+    background-color: var(--secondary-color) !important;
+}
+/* Search Bar */
+div.inner-2pOSmK {
+    background-color: var(--textbox) !important;
+}
+
+div.searchBar-3TnChZ {
+    background-color: var(--secondary-color) !important;
+}
+button.searchBarComponent-3N7dCG {
+    background-color: var(--textbox) !important;
+}
+/* SearchBar Menu */
+div.quickswitcher-pKcM9U {
+    background-color: var(--primary-color) !important;
+}
+div.scroller-2qwVWY {
+    background-color: var(--secondary-color) !important;
+}
+input.input-3r5zZY {
+    background-color: var(--textbox) !important;
+}
+
+/* Message Actions */
+div#message-actions {
+    background-color: var(--accent-color) !important;
+}
+/* Message Hover Options*/
+div.wrapper-2vIMkT {
+    background-color: var(--accent-color) !important;
+}
+
+/* Server List */
+/*div[aria-label="Servers"] */
+div.scroller-3X7KbA {
+    background-color: var(--tertiary-color) !important;
+}
+
+/* Server Channels */
+div#channels {
+    background-color: var(--secondary-color) !important;
+}
+
+/* Embeds */
+div.grid-1aWVsE {
+    background-color: var(--embeds) !important;
+    border-radius: 0px 5px 5px 0px;
+}
+
+/* Server Name Header */
+header.header-3OsQeK {
+    background-color: var(--primary-color) !important;
+}
+
+/* Username */
+div.container-YkUktl {
+    background-color: var(--accent-color) !important;
+}
+
+/* Chat */
+div.scrollerContent-2SW0kQ {
+    background-color: var(--primary-color) !important;
+}
+
+/* Message Requests Page */
+div.content-1jQy2l {
+    background-color: var(--primary-color) !important;
+}
+
+/* Nitro Page */
+div.scroller-29cQFV {
+    background-color: var(--primary-color) !important;
+}
+
+/* Friends Page */
+div.scroller-hE2gWq {
+    background-color: var(--primary-color) !important;
+}
+div#all-tab,
+div#pending-tab,
+div#online-tab,
+div#blocked-tab {
+    background-color: var(--primary-color) !important;
+}
+/* Friend Cards */
+div.itemCard-3Etziu {
+    background-color: #0a061e !important;
+}
+div.itemCard-3Etziu:hover {
+    background-color: #1a1339 !important;
+}
+div.actionButton-3-B2x- {
+    background-color: var(--accent-color) !important;
+}
+section.section-3G9aLW {
+    background-color: var(--accent-color) !important;
+}
+
+/* Member List */
+div.members-3WRCEx,
+div.container-2o3qEW {
+    background-color: var(--secondary-color) !important;
+}
+
+/* Member List Inner*/
+div.memberInner--L4X2b {
+    background-color: var(--member-list-inner) !important;
+}
+div.memberInner--L4X2b:hover {
+    background-color: #1b1539 !important;
+}
+
+
+/* TextBox */
+div.textArea-2CLwUE,
+form.form-3gdLxP button,
+div.buttonContainer-2lnNiN,
+div.inner-NQg18Y {
+    background-color: var(--textbox) !important;
+}
+/* TextBox Bottom */
+form.form-3gdLxP {
+    background-color: var(--primary-color) !important;
+}
+
+/* Placeholder in TextBox */
+div.placeholder-1rCBhr {
+    color: var(--textbox-placeholder);
+}
+
+/* Reply Bar */
+div.replyBar-1oi75v,
+div.clipContainer-31nYlH {
+    background-color: #1e1931 !important;
+    border-radius: 5px 5px 0px 0px;
+}
+div.threadSuggestionBar-3ExSyc {
+    background-color: #25242f !important;
+}
+ul.channelAttachmentArea-HwpkuQ {
+    background-color: #050428 !important;
+}
+
+/* Mention / Emoji ListBox */
+div.contentWrapper-3vHNP2 {
+    background-color: #1c1531 !important;
+}
+div.wrapper-1NNaWG {
+    background-color: #19122d !important;
+}
+div.scroller-2MALzE {
+    background-color: #1c1531 !important;
+}
+div.inspector-DFKXwB {
+    background-color: #1f1933 !important;
+}
+div.standardStickerShortcut-ObSns3,
+.unicodeShortcut-3N8oDe {
+    background-color: #221b37 !important;
+}
+
+div.scroller-18M1mG {
+    background-color: #1d192d !important;
+    border-radius: 5px;
+}
+input.input-2FSSDe {
+    background-color: #151515 !important;
+}
+
+/* VC  */
+div.container-1zzFcN {
+    background-color: #160b37 !important;
+}
+/* Screenshare Status */
+div.panel-2ZFCRb {
+    background-color: #0f0824 !important;
+}
