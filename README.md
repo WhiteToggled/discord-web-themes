@@ -1,12 +1,12 @@
-# Discord Dark Theme
+# Discord Web Themes
 
 
-A dark mode theme for Discord Web.
+A collection of themes for Discord Web.
 
-![image](https://github.com/WhiteToggled/discord-dark-theme/assets/105970637/adf9a7b6-4faa-4395-a609-d3db09328129)
+![image](https://github.com/WhiteToggled/discord-web-themes/assets/105970637/2b7380a4-8d17-4b28-94b4-2948c16f2e6d)
 ![image](https://github.com/WhiteToggled/discord-dark-theme/assets/105970637/87c77925-2e52-4db6-9925-771f601831c3)
 
-#### To add this theme, Install the Stylus extension from  `https://github.com/openstyles/stylus` 
+#### To add the themes, Install the Stylus extension from  `https://github.com/openstyles/stylus` 
 supported on major web browsers such as FireFox and Google Chrome
 
 After installing Stylus, Create a New style 
